@@ -1,3 +1,5 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sadboysuss)](https://github.com/anuraghazra/github-readme-stats)
+
 # Studying mechanical engineering @Moscow
 
 ### - I like to code.
